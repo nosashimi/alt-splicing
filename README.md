@@ -11,7 +11,7 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 ## Proposed goals
 1. Running [the sample file](https://drive.google.com/open?id=0B_dRjzD1If9mR0Z6Um5LZTYxVjA) on the LeafCutter website to familiarize ourselves with the software and try to reproduce the example figure.
 2. Extending the pipeline to GTEx RNA-Seq data, focusing on crucial genes.
-3. Quantitatively analyzing differences across tissues.
+3. Exploring the relationship between alternative splicing and specific diseases.
 ## References
 1. leafcutter website
 2. leafcutter paper
