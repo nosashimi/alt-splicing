@@ -4,7 +4,7 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 ## Example published figure
 ![](https://davidaknowles.github.io/leafcutter/articles/cluster_plot_example.png)
 ## Datasets
-[The GTEx Analysis V10 RNA-Seq](https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression#bulk_tissue_expression-gtex_analysis_v10-rna-seq)
+[The GTEx Analysis V10 RNA-Seq](https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression#bulk_tissue_expression-gtex_analysis_v10-rna-seq)   
 [RNA sequencing of peripheral blood in amyotrophic lateral sclerosis reveals distinct molecular subtypes: considerations for biomarker discovery](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297)
 ## Software
 [LeafCutter 0.2.9](https://davidaknowles.github.io/leafcutter/index.html)  
