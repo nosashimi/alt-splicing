@@ -5,7 +5,7 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 ![](https://davidaknowles.github.io/leafcutter/articles/cluster_plot_example.png)
 ## Datasets
 [The GTEx Analysis V10 RNA-Seq](https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression#bulk_tissue_expression-gtex_analysis_v10-rna-seq)   
-[RNA sequencing of peripheral blood in amyotrophic lateral sclerosis reveals distinct molecular subtypes: considerations for biomarker discovery](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297)
+[ALS RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297)
 ## Software
 [LeafCutter 0.2.9](https://davidaknowles.github.io/leafcutter/index.html)  
 [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)
@@ -15,5 +15,5 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 3. Exploring the relationship between alternative splicing and specific diseases.
 ## References
 1. leafcutter website
-2. leafcutter paper
+2. Li, Y.I., Knowles, D.A., Humphrey, J. *et al*. Annotation-free quantification of RNA splicing using LeafCutter. *Nat Genet* **50**, 151–158 (2018). https://doi.org/10.1038/s41588-017-0004-9
 3. [A Blood Transcriptomic Resource for ALS Highlights Disease-Associated Signatures and Alternative Splicing Events](https://www.medrxiv.org/content/10.1101/2025.07.28.25332310v1)
