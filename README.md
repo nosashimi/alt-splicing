@@ -8,6 +8,7 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 [ALS RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297)
 ## Software
 [LeafCutter 0.2.9](https://davidaknowles.github.io/leafcutter/index.html)  
+[MAJIQ](https://majiq.biociphers.org)  
 [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)  
 Python  
 R  
