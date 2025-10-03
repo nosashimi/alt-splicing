@@ -8,7 +8,12 @@ Alternative splicing during mRNA maturation is essential for major biological pr
 [ALS RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234297)
 ## Software
 [LeafCutter 0.2.9](https://davidaknowles.github.io/leafcutter/index.html)  
-[Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)
+[Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)  
+Python  
+R  
+## Packages
+[samtools](https://samtools.sourceforge.net)  
+[regtools](https://regtools.readthedocs.io/en/latest/#installation)  
 ## Proposed goals
 1. Running [the sample file](https://drive.google.com/open?id=0B_dRjzD1If9mR0Z6Um5LZTYxVjA) on the LeafCutter website to familiarize ourselves with the software and try to reproduce the example figure.
 2. Extending the pipeline to GTEx RNA-Seq data, focusing on crucial genes.
