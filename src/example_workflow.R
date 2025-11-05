@@ -10,9 +10,7 @@ data(pasillaDEXSeqDataSet, package="pasilla")
 colData(dxd)
 # Access the first 5 rows of the counts data
 head(counts(dxd), 5)
-  # Each row represent an exon or part of an exon of the given gene (exon ID), and the first 7 columns correspond to the number of reads
-  # mapped the given exon ID from each sample, while the last 7 columns are the sum of the counts mapped to the rest of the exons from
-  # the same gene on each sample.
+  # Each row represent an exon or part of an exon of the given gene (exon ID), and the first 7 columns correspond to the number of reads mapped the given exon ID from each sample, while the last 7 columns are the sum of the counts mapped to the rest of the exons from the same gene on each sample.
 # Details of the first 3 counting bins
 head(rowRanges(dxd), 3)
 
