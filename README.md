@@ -2,7 +2,9 @@
 ## Description
 Alternative splicing during mRNA maturation is essential for major biological processes in eukaryotes such as cellular differentiation and proper gene regulation. Here, using RNA-Seq data from the Genotype-Tissue Expression (GTEx) Consortium, we aim to characterize differential alternative splicing events - including splice junctions (SJs) and intron retentions (IRs) - across tissues with the help of DEXSeq. By doing so, we hope to eventually gain a deeper understanding of how cell fate in different tissues is dictated by alternative splicing.  
 ## Example published figure
-![]()
+![](./fig/published/Table_1.png)  
+![](./fig/published/Table_2.png)  
+![](./fig/published/Fig_1.png)  
 ## Datasets
 [The GTEx Analysis V10 RNA-Seq](https://www.gtexportal.org/home/downloads/adult-gtex/bulk_tissue_expression#bulk_tissue_expression-gtex_analysis_v10-rna-seq)   
 [*Drosophila* RNA Binding Protein RNAi RNA-Seq Studies GSE18508](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18508)
