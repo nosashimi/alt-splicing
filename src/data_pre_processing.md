@@ -31,30 +31,23 @@ htseq-count -s no -a 10 realign.sam ../reference_genome/ncbi_dataset/genomic.gtf
 [Error processing GFF file (line 419004 of file ../reference_genome/ncbi_dataset/genomic.gtf):]       
      
 Run following code:       
-    
 awk 'NR==419004' ../reference_genome/ncbi_dataset/genomic.gtf | cut -f 7      
     
 Get:      
-    
 ?     
     
 Solution: remove this line     
-    
 sed '419004d' ../reference_genome/ncbi_dataset/genomic.gtf > ../reference_genome/ncbi_dataset/genomic_editted.gtf      
      
 Error at 419017 line:    
 sed -i '' '419017d' ../reference_genome/ncbi_dataset/genomic_editted.gtf      
      
 Another error in another line.      
-     
 Try deleting all lines with undefined strandness.    
-    
 Run:      
-     
 awk '$7 != "?"' ../reference_genome/ncbi_dataset/genomic.gtf > ../reference_genome/ncbi_dataset/genomic_editted.gtf    
     
 Then:     
-    
 htseq-count -s no -a 10 realign.sam ../reference_genome/ncbi_dataset/genomic_editted.gtf > sample.count    
      
 It takes a long time to run.
