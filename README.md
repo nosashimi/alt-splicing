@@ -20,4 +20,6 @@ R
 3. Comparing DEXSeq with other alternative splicing analysis softwares.
 ## References
 1. Li Y, Rao X, Mattox WW, Amos CI, Liu B (2015) RNA-Seq Analysis of Differential Splice Junction Usage and Intron Retentions by DEXSeq. *PLOS ONE* 10(9): e0136653. https://doi.org/10.1371/journal.pone.0136653
-2. Anders S, Reyes A, Huber W. Detecting differential usage of exons from RNA-seq data. *Genome research*. 2012; 22(10):2008–17. doi: 10.1101/gr.133744.111 PMID: 22722343; PubMed Central PMCID: PMC3460195. 
+2. Anders S, Reyes A, Huber W. Detecting differential usage of exons from RNA-seq data. *Genome research*. 2012; 22(10):2008–17. doi: 10.1101/gr.133744.111 PMID: 22722343; PubMed Central PMCID: PMC3460195.
+## Slides
+https://docs.google.com/presentation/d/1UDEf2NieTSC4jmAXDyfvduWXt9NuG4X8/edit?slide=id.p1#slide=id.p1
